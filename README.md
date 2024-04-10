@@ -1,5 +1,8 @@
 # ctf_machines (cyberblockz)
-
+You can find the solution videos in telugu language in our youtube channel from the below link
+```
+https://www.youtube.com/@cyberblockz
+```
 ## File Upload CTF Machine:
 ```
 https://mega.nz/file/9r9zAQTb#O6kCBfLylzSwmLoep_P0avt7_hYKSII_yfMjqeU1TLk

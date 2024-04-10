@@ -1,6 +1,4 @@
-# ctf_machines
-
-## Links:
+# ctf_machines (cyberblockz)
 
 ## File Upload CTF Machine:
 ```
